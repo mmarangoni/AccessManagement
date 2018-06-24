@@ -11,7 +11,7 @@ Identity Management &amp; Authentication Client/Server Application
 
 ## Using the application:
 
-1. Open each solution in a different Visual Studio app -- one for IAServer, one for PrimaryWebApp, and one of SecondaryWebApp
+1. Open each solution in a different Visual Studio app -- one for IAServer, one for PrimaryWebApp, and one for SecondaryWebApp
 2. Build/compile each solution to gather any missing files or dependencies (ctrl + shift + B)
 3. Run each app (ctrl + F5 within Visual Studio)
 3. The primary and secondary web apps will have their own web interface, and interact with the IAServer
