@@ -9,7 +9,7 @@ Identity Management &amp; Authentication Client/Server Application
 - User account management
 
 
-## To Use this application:
+## Using the application:
 
 1. Open each solution in a different Visual Studio app -- one for IAServer, one for PrimaryWebApp, and one of SecondaryWebApp
 2. Build/compile each solution to gather any missing files or dependencies (ctrl + shift + B)
